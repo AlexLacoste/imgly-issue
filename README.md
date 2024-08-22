@@ -6,11 +6,7 @@ Click on 'open editor again', you won't be able to do this again. If you check t
 
 Videos added directly in the editor should be accessible in segments.
 
-Translated with DeepL.com (free version)
-
 Demo:
-
-
 
 https://github.com/user-attachments/assets/c90eb470-e38b-4905-ab65-0ae3d539b2b6
 
