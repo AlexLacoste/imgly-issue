@@ -1,12 +1,10 @@
-Try it on a real **IOS device**. Not with a simulator, because since it uses the same storage space as a Mac, there's no problem with a simulator.
+Try it on android.
 
-Record a video, stop recording, this will open the editor. In the editor, select video at bottom left, click on '+' to add a video from your gallery. Save and export the video.
+Record a video with a duration less than 120 seconds, stop recording, this will open the editor. In the editor just export the video, you'll see the process that a new video is created even if it's useless.
 
-Click on 'open editor again', you won't be able to do this again. If you check the logs in the terminal, you'll see that the 2nd video in the segment has a videoURI tmp. If we try to access this videoURI with expo-file-system, it tells us `{“exists”: false, “isDirectory”: false}`.
-
-Videos added directly in the editor should be accessible in segments.
 
 Demo:
 
-https://github.com/user-attachments/assets/c90eb470-e38b-4905-ab65-0ae3d539b2b6
+
+https://github.com/user-attachments/assets/4ef5939f-9107-4619-bc8b-4ce17dda8ee2
 
